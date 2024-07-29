@@ -1,0 +1,17 @@
+New Order:
+Name: Plain Burger
+Garnishes: cheese
+Price: £4.5
+
+Name: Cheese Burger
+Garnishes: 
+Price: £4.5
+
+Name: Margherita
+Toppings: tomato sauce,  cheese, pepperoni
+Price: £6.2
+
+Name: Ham and Mushroom
+Toppings: tomato sauce,  mushroom,  cheese
+Price: £6.5
+Your Overall Order costs £21.7
